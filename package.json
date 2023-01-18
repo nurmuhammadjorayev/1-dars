@@ -1,0 +1,19 @@
+{
+  "name": "salom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "i": "^0.3.7",
+    "jquire": "^1.0.251",
+    "nodemon": "^2.0.20",
+    "npm": "^9.3.1"
+  }
+}
